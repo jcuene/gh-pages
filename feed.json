@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Strategy1",
+    "description": "",
+    "home_page_url": "https://jcuene.github.io/gh-pages",
+    "feed_url": "https://jcuene.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "JCuene"
+    },
+    "items": [
+        {
+            "id": "https://jcuene.github.io/gh-pages/hello-world.html",
+            "url": "https://jcuene.github.io/gh-pages/hello-world.html",
+            "title": "Hello World",
+            "summary": "This is a basic page, yo",
+            "content_html": "<p>This is a basic page, yo</p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "JCuene"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-23T13:59:26-05:00",
+            "date_modified": "2022-07-23T13:59:26-05:00"
+        }
+    ]
+}

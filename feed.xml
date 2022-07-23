@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Strategy1</title>
+    <link href="https://jcuene.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://jcuene.github.io/gh-pages" />
+    <updated>2022-07-23T13:59:26-05:00</updated>
+    <author>
+        <name>JCuene</name>
+    </author>
+    <id>https://jcuene.github.io/gh-pages</id>
+
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>JCuene</name>
+        </author>
+        <link href="https://jcuene.github.io/gh-pages/hello-world.html"/>
+        <id>https://jcuene.github.io/gh-pages/hello-world.html</id>
+
+        <updated>2022-07-23T13:59:26-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a basic page, yo
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a basic page, yo</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

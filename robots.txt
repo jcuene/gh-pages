@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jcuene.github.io/gh-pages/sitemap.xml
