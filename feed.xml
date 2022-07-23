@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Strategy1</title>
+    <title>Strategy is Fun</title>
     <link href="https://jcuene.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://jcuene.github.io/gh-pages" />
-    <updated>2022-07-23T13:59:26-05:00</updated>
+    <updated>2022-07-23T14:18:01-05:00</updated>
     <author>
         <name>JCuene</name>
     </author>
     <id>https://jcuene.github.io/gh-pages</id>
 
+    <entry>
+        <title>Second Post</title>
+        <author>
+            <name>JCuene</name>
+        </author>
+        <link href="https://jcuene.github.io/gh-pages/second-post.html"/>
+        <id>https://jcuene.github.io/gh-pages/second-post.html</id>
+
+        <updated>2022-07-23T14:18:01-05:00</updated>
+            <summary>
+                <![CDATA[
+                    I think this is a second post, that goes almost anywhere.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I think this is a second post, that goes almost anywhere. </p>
+<figure class="post__image"><img loading="lazy"  src="https://jcuene.github.io/gh-pages/media/posts/2/287583822_10166531628425637_8057609553366733193_n.jpeg" sizes="100vw" srcset="https://jcuene.github.io/gh-pages/media/posts/2/responsive/287583822_10166531628425637_8057609553366733193_n-xs.jpeg 300w ,https://jcuene.github.io/gh-pages/media/posts/2/responsive/287583822_10166531628425637_8057609553366733193_n-sm.jpeg 480w ,https://jcuene.github.io/gh-pages/media/posts/2/responsive/287583822_10166531628425637_8057609553366733193_n-md.jpeg 768w ,https://jcuene.github.io/gh-pages/media/posts/2/responsive/287583822_10166531628425637_8057609553366733193_n-lg.jpeg 1024w ,https://jcuene.github.io/gh-pages/media/posts/2/responsive/287583822_10166531628425637_8057609553366733193_n-xl.jpeg 1360w ,https://jcuene.github.io/gh-pages/media/posts/2/responsive/287583822_10166531628425637_8057609553366733193_n-2xl.jpeg 1600w"  alt="" width="1280" height="720"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hello World</title>
         <author>
@@ -17,7 +38,7 @@
         <link href="https://jcuene.github.io/gh-pages/hello-world.html"/>
         <id>https://jcuene.github.io/gh-pages/hello-world.html</id>
 
-        <updated>2022-07-23T13:59:26-05:00</updated>
+        <updated>2022-07-23T14:13:01-05:00</updated>
             <summary>
                 <![CDATA[
                     This is a basic page, yo

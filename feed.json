@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Strategy1",
+    "title": "Strategy is Fun",
     "description": "",
     "home_page_url": "https://jcuene.github.io/gh-pages",
     "feed_url": "https://jcuene.github.io/gh-pages/feed.json",
@@ -9,6 +9,20 @@
         "name": "JCuene"
     },
     "items": [
+        {
+            "id": "https://jcuene.github.io/gh-pages/second-post.html",
+            "url": "https://jcuene.github.io/gh-pages/second-post.html",
+            "title": "Second Post",
+            "summary": "I think this is a second post, that goes almost anywhere.",
+            "content_html": "<p>I think this is a second post, that goes almost anywhere. </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jcuene.github.io/gh-pages/media/posts/2/287583822_10166531628425637_8057609553366733193_n.jpeg\" sizes=\"100vw\" srcset=\"https://jcuene.github.io/gh-pages/media/posts/2/responsive/287583822_10166531628425637_8057609553366733193_n-xs.jpeg 300w ,https://jcuene.github.io/gh-pages/media/posts/2/responsive/287583822_10166531628425637_8057609553366733193_n-sm.jpeg 480w ,https://jcuene.github.io/gh-pages/media/posts/2/responsive/287583822_10166531628425637_8057609553366733193_n-md.jpeg 768w ,https://jcuene.github.io/gh-pages/media/posts/2/responsive/287583822_10166531628425637_8057609553366733193_n-lg.jpeg 1024w ,https://jcuene.github.io/gh-pages/media/posts/2/responsive/287583822_10166531628425637_8057609553366733193_n-xl.jpeg 1360w ,https://jcuene.github.io/gh-pages/media/posts/2/responsive/287583822_10166531628425637_8057609553366733193_n-2xl.jpeg 1600w\"  alt=\"\" width=\"1280\" height=\"720\"></figure>",
+            "author": {
+                "name": "JCuene"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-23T14:18:01-05:00",
+            "date_modified": "2022-07-23T14:18:01-05:00"
+        },
         {
             "id": "https://jcuene.github.io/gh-pages/hello-world.html",
             "url": "https://jcuene.github.io/gh-pages/hello-world.html",
@@ -21,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2022-07-23T13:59:26-05:00",
-            "date_modified": "2022-07-23T13:59:26-05:00"
+            "date_modified": "2022-07-23T14:13:01-05:00"
         }
     ]
 }
